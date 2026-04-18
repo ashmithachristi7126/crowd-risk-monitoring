@@ -1,0 +1,5 @@
+__pycache__/
+*.pt
+dataset/
+videos/
+test_images/
